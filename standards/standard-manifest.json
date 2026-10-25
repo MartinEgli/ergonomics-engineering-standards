@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "repositoryKey": "ERGO",
+  "repositoryUrl": "https://github.com/MartinEgli/ergonomics-engineering-standards",
+  "releaseVersion": "1.0.0",
+  "standards": [
+    {
+      "standardKey": "ERG",
+      "title": "Engineering Standards (Ergonomics)",
+      "path": "standards/engineering-standards-ergonomics.md",
+      "ruleIdPattern": "^ERG-[0-9]{3}$",
+      "status": "active",
+      "sourceReferences": [
+        "ISO 9241-2:1992",
+        "ISO 9241-110:2020",
+        "ISO 9241-115:2024",
+        "ISO 9241-210:2019",
+        "ISO 9241-220:2019",
+        "ISO/TR 9241-100:2023"
+      ]
+    }
+  ]
+}

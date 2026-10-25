@@ -15,6 +15,11 @@ It is informed by ISO 9241, especially task requirements and human-centred
 interaction design. It does not reproduce ISO text and does not by itself
 establish conformity or certification against an ISO publication.
 
+Every normative rule has a stable `ERG-NNN` identifier. Repository identity,
+version, source references, and the rule-ID pattern are declared in
+`standards/standard-manifest.json`. Consumers pin a Git commit and reference
+these IDs in their evidence matrix.
+
 ## Consumption
 
 Technology repositories should reference this repository as an independent
